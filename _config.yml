@@ -1,7 +1,7 @@
 # Site settings
 title: LikeAI
 description: A mobile app for your home!
-cover: cover.jpg
+cover: assets/images/cover.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
